@@ -10,3 +10,7 @@
 .yellow-button {
   background-color: yellow;
 }
+/*if a number of selectors have same styling but also different and unique styling, we can group the selectors like above, for similar styling in this
+case that was the font-size and font-family, then we can go on to style the individual classes, differently where they are unique from each other
+as seen above with the background colors being different and the black-button class also having a yellow color whereas the yellow-button class 
+has default black text.*/
